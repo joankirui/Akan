@@ -6,3 +6,8 @@ h1{
 body{
     background-image:url(https://images.pexels.com/photos/462162/pexels-photo-462162.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
 }
+p{
+    font-size: 30px;
+    font-style: oblique;
+    text-align: center;
+}
