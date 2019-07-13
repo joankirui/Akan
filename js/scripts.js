@@ -1,21 +1,13 @@
 function akanName(){
-    return d = (((CC/4)-2*CC-1)+((5*YY/4))+((26*(MM+1)/10))+DD)mod 7
+    return d = (((CC/4)-2*CC-1)+((5*YY/4))+((26*(MM+1)/10))+DD)mod 7;
 }
 var CC = document.getElementsByName(century);
 var DD= document.getElementsByName(day);
 var MM = document.getElementsByName(month);
 var YY = document.getElementsByName(year);
+var gender = document.getElementsByName(gender);
+
 akanName(CC,DD,MM,YY);
-
-
-
-
-
-
-
-
-
-
 if((d<=0)||(d>30))
 {
     alert("Invalid day!!Enter a valid day");
@@ -33,23 +25,23 @@ else
 }
 if(gender===Male)
 {
-    if(d===0)
+    if(d===[0])
     {
         alert("Your Akan name is Kwasi");
     }
-    else if(d===1)
+    else if(d===[1])
     {
         alert("Your Akan name is Kwadwo"); 
     }
-    else if(d===2)
+    else if(d===[2])
     {
         alert("Your Akan name is Kwabena"); 
     }
-    else if(d===3)
+    else if(d===[3])
     {
         alert("Your Akan name is Kwaku"); 
     }
-    else if(d===4)
+    else if(d===[4])
     {
         alert("Your Akan name is Yaw"); 
     }
