@@ -6,7 +6,7 @@ var DD= document.getElementsByName(day);
 var MM = document.getElementsByName(month);
 var YY = document.getElementsByName(year);
 var gender = document.getElementsByName(gender);
-
+var d =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 akanName(CC,DD,MM,YY);
 if((d<=0)||(d>30))
 {
