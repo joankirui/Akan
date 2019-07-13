@@ -5,6 +5,7 @@ var CC = document.getElementsByName(century);
 var DD= document.getElementsByName(day);
 var MM = document.getElementsByName(month);
 var YY = document.getElementsByName(year);
+akanName(CC,DD,MM,YY);
 
 
 
