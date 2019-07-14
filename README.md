@@ -12,6 +12,7 @@ joankirui
 <code . or atom .(based on your text editor)
 # Live Site
 <https://joankirui.github.io/Akan
+# Screenshot
 # BDD
 # Technologies used
 <HTML
