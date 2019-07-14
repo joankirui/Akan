@@ -12,8 +12,16 @@ This project is a web application that takes the users' birthday and calculates 
 <code . or atom .(based on your text editor)/>
 # Live Site
 <https://joankirui.github.io/Akan
-# Screenshot
 # BDD
+ Enter birthday e.g 04
+ Enter month of birth e.g 06
+ Enter century digits for example 20 for 1999
+ Enter year of birth e.g 99 for 1999
+ Choose your gender Female or Male then click submit
+ After submitting the program runs comparing the inputs with the stipulated conditions e.g (d<=0&&d>31),(m<0&&M>12)
+ 
+ output to expect example Your name is Afua(you were born on a Friday) for females
+ Your name is Kofi(you were born on a Friday) for males
 # Technologies used
 <HTML.
 <CSS.
