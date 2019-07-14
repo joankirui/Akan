@@ -1,11 +1,10 @@
 function akanName(){
+    var CC = document.getElementsByName(century);
+    var DD = document.getElementsByName(day);
+    var MM = document.getElementsByName(month);
+    var YY = document.getElementsByName(year);
     return d = (((CC/4)-2*CC-1)+((5*YY/4))+((26*(MM+1)/10))+DD)mod 7;
 }
-var CC = document.getElementsByName(century);
-var DD = document.getElementsByName(day);
-var MM = document.getElementsByName(month);
-var YY = document.getElementsByName(year);
-akanName(CC,DD,MM,YY);
 
 if((d<=0)||(d>30))
 {
