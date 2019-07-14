@@ -1,0 +1,21 @@
+# Akan
+#Project description
+This project is a web application that takes the users' birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan name.Akan names are derived from Ghanian culture. 
+#Author's information
+Joan Chelangat Kirui
+#Set up instructions
+open your terminal(ctrl+alt+T)
+cd Documents
+cd Akan
+git init (to initialize your git repository)
+code .-to open your files
+#BDD
+#Tecnologies used 
+<HTML
+<CSS
+<Javascript
+#Contact information
+Incase of any enquiries email me [joankirui99@gmail.com]
+#License and copyright information
+MIT License
+copyright@JOANKIRUI
