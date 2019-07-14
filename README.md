@@ -15,9 +15,9 @@ This project is a web application that takes the users' birthday and calculates 
 # Screenshot
 # BDD
 # Technologies used
-<HTML
-<CSS
-<Javascript
+<HTML.
+<CSS.
+<Javascript.
 # Contact information
 you can contact me via email joankirui99@gmail.com
 # License and Copyright Information
