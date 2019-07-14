@@ -5,11 +5,11 @@ This project is a web application that takes the users' birthday and calculates 
 # Authors information
 <joankirui
 # Set-up instructions
-<open your terminal(ctrl+alt+T)
-<cd Documents
-<cd AKan
-<git init(to initialize your git repository)
-<code . or atom .(based on your text editor)
+<open your terminal(ctrl+alt+T)/>
+<cd Documents/>
+<cd AKan/>
+<git init(to initialize your git repository)/>
+<code . or atom .(based on your text editor)/>
 # Live Site
 <https://joankirui.github.io/Akan
 # Screenshot
