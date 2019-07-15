@@ -77,7 +77,7 @@ else if (gender=="Female" && d==6){
     alert("Your Akan name is Ama"); 
 }
 else {
-    alert("null");
+    alert("null value");
 }
 
 }
