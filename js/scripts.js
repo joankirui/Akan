@@ -13,23 +13,23 @@ function akanName(form){
     var yy = document.forms["myform"]["year"].value;
     var gender = document.forms["myform"]["gender"].value;
 
-    // if((dd<=0)||(dd>31))
-    // {
-    //     alert("Invalid day!!Enter a valid day");
-    // }
-    // else
-    // {
-    //     alert("Continue");
-    // }
+    if((dd<=0)||(dd>31))
+    {
+        alert("Invalid day!!Enter a valid day");
+    }
+    else
+    {
+        alert("Continue");
+    }
     
-    // if((mm<=0)||(mm>12))
-    // {
-    //     alert("Invalid month!!Enter a valid month");
-    // }
-    // else
-    // {
-    //     alert("Continue");
-    // }
+    if((mm<=0)||(mm>12))
+    {
+        alert("Invalid month!!Enter a valid month");
+    }
+    else
+    {
+        alert("Continue");
+    }
 
 var d= akanday(cc,yy,dd,mm).toFixed();
 // alert("d");
